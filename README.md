@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0f68a060-d3e1-4553-81f7-e2c270e26554" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1144b70-6356-4ac7-a12c-9a2aa1a3c12f" />
 👋 ¡Hola! Soy Cristian Manuel Castañeda Gutiérrez  
 
 🎓 **Estudiante de Ingeniería Informática** en la [Universidad de La Sabana](https://unisabana.edu.co) — 5º semestre  
